@@ -1,9 +1,9 @@
-import PopulationCounter from './PopulationCounter';
+// import PopulationCounter from './PopulationCounter';
 
 function App() {
 
   return (
-   <PopulationCounter />
+   <span>aaa</span>
   )
 }
 
